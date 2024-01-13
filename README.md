@@ -1,5 +1,7 @@
 **Title: Comprehensive Loan Analysis for Risk Assessment and Strategic Decision-Making**
 
+**Dataset -** https://www.kaggle.com/datasets/henryokam/prosper-loan-data
+
 **Summary:**
 In the "Comprehensive Loan Analysis" project, I utilized SQL queries to thoroughly investigate and gain insights from a dataset containing loan information. The dataset included various attributes such as loan duration, status, interest rate, yield, Prosper rating, employment status, home ownership, loan amount, monthly payment, and the number of investors. The goal of the project was to perform a comprehensive analysis to aid in risk assessment and strategic decision-making.
 
